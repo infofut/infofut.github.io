@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+header#cabecalho{
+
+
+}
+header h1{
+
+	text-align: center;
+}
+
+section{
+
+	width: 400px;
+	height: 500px;
+	background-color: #fff;
+	margin: 7px;
+	box-shadow: 0 5px 12px #e0e0df;
+	border-radius: 10px;
+	padding: 15px;
+	font-size: 14pt;
+}
+section h1{
+
+	text-align: center;
+
+}
+section h2{
+
+	text-align: center;
+
+}
+section h3{
+
+	text-align: center;
+
+}
+section p{
+
+	text-align: center;
+
+}
+section span{
+
+	background-color: rgb(25,44,2);
+	display: block;
+	color:#fff;
+	padding: 4px;
+	text-shadow: 1px 1px 4px #e0e0df;
+
+}
+section a{
+
+	text-decoration: none;
+	color:#000;
+}
+section a:hover{
+
+	text-decoration: underline;
+}
+section#s1{
+
+	display: block;
+	float: left;
+
+}
+section#s2{
+
+	display: block;
+	float: left;
+
+}
+section#s3{
+
+	display: block;
+	float: left;
+
+}
+div#ultimos{
+
+	width: 1000px;
+	margin: 570px auto 0px auto;
+
+}
+section#s4{
+
+	display:block;
+	float: left;
+}
+section#s5{
+
+	display:block;
+	float: right;
+
+}
